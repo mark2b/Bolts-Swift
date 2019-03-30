@@ -7,8 +7,8 @@
 // of patent rights can be found in the PATENTS file in the same directory.
 //
 
-#include "Shared/Platform/macOS.xcconfig"
-#include "Shared/Product/LogicTests.xcconfig"
+//#include "Shared/Platform/macOS.xcconfig"
+//#include "Shared/Product/LogicTests.xcconfig"
 
 PRODUCT_NAME = BoltsSwiftTests
 PRODUCT_BUNDLE_IDENTIFIER = com.bolts.swift.macos.tests

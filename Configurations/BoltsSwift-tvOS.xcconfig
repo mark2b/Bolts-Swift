@@ -7,8 +7,8 @@
 // of patent rights can be found in the PATENTS file in the same directory.
 //
 
-#include "Shared/Platform/tvOS.xcconfig"
-#include "Shared/Product/DynamicFramework.xcconfig"
+//#include "Shared/Platform/tvOS.xcconfig"
+//#include "Shared/Product/DynamicFramework.xcconfig"
 #include "Version.xcconfig"
 
 PRODUCT_NAME = BoltsSwift
